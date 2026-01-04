@@ -117,10 +117,6 @@ _**2️⃣ Navigate to Project Folder**_
       npm start
 
 
-Backend runs on:
-
-http://localhost:5000
-
 
 _**4️⃣ Frontend Setup**_
 
@@ -131,10 +127,6 @@ _**4️⃣ Frontend Setup**_
       
       npm start
 
-
-Frontend runs on:
-
-http://localhost:3000
 
 
 _**🔐 Environment Variables**_
